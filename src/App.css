@@ -1,0 +1,12 @@
+.container{
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  padding: 20px;
+}
+
+button{
+  padding: 4px;
+}
